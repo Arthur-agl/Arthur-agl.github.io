@@ -12,6 +12,12 @@
     padding-bottom: 10px;
 }
 
+.bg-window {
+    width: 55px;
+    height: 55px;
+    margin: auto;
+}
+
 .gif-display {
     background-image: url('../img/starfield2.gif');
     background-size: cover;
